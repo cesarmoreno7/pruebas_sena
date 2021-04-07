@@ -24,54 +24,13 @@
 
 		<link rel="stylesheet"  href="bootstrap-3.3.4-dist/css/bootstrap.min.css">
 
-		<!--<link rel="shortcut icon" type="image/x-icon" href="" />-->
+		
 
 </head>
 
 	<body>
 
-			  <!--<div class="navbar navbar-inverse">
-
-			  <div class="navbar-header">
-
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-inverse-collapse">
-
-				  <span class="icon-bar"></span>
-
-				  <span class="icon-bar"></span>
-
-				  <span class="icon-bar"></span>
-
-				</button>
-
-				<a class="navbar-brand" href="#">
-
-					<img src="img/logo.png">
-
-				</a>
-
-			  </div>
-
-		  <div class="navbar-collapse collapse navbar-inverse-collapse">
-
-			<ul class="nav navbar-nav navbar-right">
-
-			  <li><a href="#">Home</a></li>
-
-			  <li><a href="#">About</a></li>
-
-			  <li><a href="#">Features</a></li>
-
-			  <li><a href="#">Sign Up</a></li>
-
-			  <li><button type="button" class="btn btn-primary" onclick="window.location.href='#login'">Log in</button></li>
-
-			</ul>
-
-		    </div>
-
-		    </div>-->
-
+			  
 				
 
 			<div class="container">
